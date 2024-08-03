@@ -5,10 +5,10 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#Data-Cleaning/Preparation)
+- [Data Preparation](#Data-Preparation)
 - [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
 - [Data Analysis](#Data-Analysis)
-- [Results/Findings](#Results/Findings)
+- [Results](#Results)
 - [Recommendations](#Recommendations)
 - [Limitations](#Limitations)
 - [References](#References)
@@ -16,6 +16,8 @@
 
 ### Project Overview
 An Excel dashboard project showing key metrics and insights around the sales performance for this shoe selling business.
+
+![Sales Performance Dashboard Example](https://github.com/user-attachments/assets/09d76a25-cc9a-4ded-910b-2f5da0ee25a6)
 
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "New Advanced EXCEL DASHBOARD  Create Better Sales Performance Dashboard in EXCEL.xlsx" file ([Download Here](https://drive.google.com/file/d/1T8r-OPm5QjbWIUHdFLxerdOw925h5v_f/view)) from the Youtube channel 'Data with Decision' ([Link Here](https://www.youtube.com/@datalab365)).
@@ -28,7 +30,7 @@ Sales Data: The primary dataset used for this analysis is the "New Advanced EXCE
     - Pivot Charts - Data Visualisation/Reporting
 
 
-### Data Cleaning/Preparation
+### Data Preparation
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
 2. Data cleaning and formatting.
@@ -50,7 +52,7 @@ SELECT * FROM table1
 WHERE cond = 2;
 ```
 
-### Results/Findings
+### Results
 The analysis results are summarised as follows:
 1. The comppany's sales have been steadily ________ over the past _____, with a noticeable peak during the ______ season.
 2. Product Category ___ is the best-performing category in terms of ____ and ____.
@@ -68,7 +70,3 @@ Based on the analysis, we recommend the following actions:
 
 ### References
 1. Data with Decision
-### Limitations
-
-
-
