@@ -47,22 +47,14 @@ EDA involved exploring the shoe sales data to answer key questions, such as:
 ### Data Analysis
 Include some interesting code/features worked with.
 
-```sql
-SELECT * FROM table1
-WHERE cond = 2;
-```
 
 ### Results
 The analysis results are summarised as follows:
-1. The comppany's sales have been steadily ________ over the past _____, with a noticeable peak during the ______ season.
-2. Product Category ___ is the best-performing category in terms of ____ and ____.
-3. Customer segments with a high ______ value should be targeted for marketing efforts.
+1. 
 
 ### Recommendations
 Based on the analysis, we recommend the following actions:
-- Invest in marketing and _______ during peak sales seasons to maximise revenue.
-- Focus on expanding and promoting products in Category ____.
-- Implement a customer segmentation strategy to target high-_____ customers effectively.
+- 
 
 ### Limitations
 
