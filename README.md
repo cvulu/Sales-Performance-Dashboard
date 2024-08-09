@@ -44,20 +44,15 @@ EDA involved exploring the shoe sales data to answer key questions, such as:
 - What are the peak sales periods?
 
 
-### Data Analysis
-Include some interesting code/features worked with.
-
-
 ### Results
 The analysis results are summarised as follows:
-1. 
+1. The company monthly profit increased by 40% from Nov 2019 to Dec 2019, and then a further % from Dec 2019 to Jan 2020 before remaining steady for the rest of 2020.
+2. Diabetic shoes are the best-performing category in terms of brand sales, while size 38 shoes are the most profitable.
+3. ShipBob has the least shipping costs associated, with overall costs being at least 48% cheaper than the other companies despite similar levels of deliveries shipped.
 
-### Recommendations
-Based on the analysis, we recommend the following actions:
-- 
 
 ### Limitations
-
+- It would be good to get more info on shipping agencies, i.e. does price correlate with quality of service?
 
 
 ### References
