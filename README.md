@@ -7,9 +7,7 @@
 - [Tools](#tools)
 - [Data Preparation](#Data-Preparation)
 - [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
-- [Data Analysis](#Data-Analysis)
 - [Results](#Results)
-- [Recommendations](#Recommendations)
 - [Limitations](#Limitations)
 - [References](#References)
 
